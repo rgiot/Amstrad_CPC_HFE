@@ -1,0 +1,9 @@
+ReSeT #0 music compo entry
+--------------------------
+
+Composer: Dma-Sc
+Title: CPC Breakah
+
+Comment:
+Run "music" executable file on the provided disk image (.dsk).
+Please only play it on a real CPC.

@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="owner" content="CPC-POWER" />
+<meta name="reply-to" content="kukulcan83@gmail.com" />
+<meta name="language" content="fr" />
+<meta http-equiv="content-language" content="fr, fr-be, fr-ca, fr-lu, fr-ch" />
+<meta name="description" content="cpcdemos est une base de donnees comprenant des demos amstrad CPC." />
+<meta name="keywords" content="cpc-power, cpcgames, cpcarchives, cpcdemos, manuel, articles, amstrad, cpc, amstrad cpc, 464, cpc 464, 664, cpc 664, 6128, cpc 6128, 472, cpc 472, 4000, cpc+, cpcplus, cpc plus, gx4000, gx 4000, cpc464, cpc664, cpc6128, basic, jeu, game, utilitaire" /><meta name="rating" content="general" />
+<meta name="distribution" content="global" />
+<meta name="copyright" content="CPC-POWER" />
+<meta name="revisit-after" content="14 days" />
+<meta name="resource-type" content="document" />
+<meta name="robots" content="all" />
+<meta name="generator" content="Kukulcan PHP" />
+<title>CPC-POWER, CPCDemos</title>
+<link rel="shortcut icon" href="http://www.cpc-power.com/favicon.gif" type="image/gif" />
+<link href="styles/demos4.css" rel="stylesheet" type="text/css" media="print, projection, screen, tv" /> 
+<link href="../ModulesExterne/MenuCommun.css" rel="stylesheet" type="text/css" media="print, projection, screen, tv" />
+<link href="../ModulesExterne/MenuMembreCommun.css" rel="stylesheet" type="text/css" media="print, projection, screen, tv" />
+<script type="text/javascript" src="styles/demos.js"></script>
+</head>
+<body class="bodysite">
+<div id="SuperContainer"><div id="Hautdepage">&nbsp;</div><div class="CorpsHaut"><div class="retour">&nbsp;</div><div id="idnavhautA"><script type="text/javascript" src="http://www.cpc-power.com/ModulesExterne/MenuCommun.js?S=CPCDemos"></script></div><div class="retour"></div><div id="cpcdemosalea"><div id="idnavhautimgalea"><div class="popimgcpc"><a href="index.php?page=detail&amp;num=1028" title="Voir la démo : UCW"><img src="screenshot/1028_1.png" alt="Voir la démo : UCW" class="popimgcpc" /></a></div></div></div><div id="democpclogo"><span class="textelive">8 CPCistes</span></div><div class="retour"></div><div id="navmembreinfo"><div class="leftmembreinfo"><form action="http://www.cpc-power.com/index.php?page=connexion" method="post"><fieldset><legend>&nbsp;Membres :</legend>&nbsp;Pseudo <input class="navmembreinfoinput" type="text" name="membrelogin" id="membrelogin" size="16" />&nbsp; &nbsp;Password <input class="navmembreinfoinput" type="password" name="membrepswd" id="membrepswd" size="14" />&nbsp; <input type="submit" value="Connexion" /></fieldset></form></div><div class="leftmembreinfolink">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="http://www.cpc-power.com/index.php?page=membre&onglet=passwordlost">Mot De Passe Perdu</a>&nbsp;&nbsp; &nbsp;<a rel="nofollow" href="http://www.cpc-power.com/index.php?page=membre&onglet=inscription">Devenir membre</a></div><div class="rightmembreinfo"><a href="index.php?page=langue&onglet=fr"><img class="flaglang" src="../images/icones/langue_fr.gif" /></a> <a href="index.php?page=langue&onglet=en"><img class="flaglang" src="../images/icones/langue_en.gif" /></a> </div></div><div class="retour">&nbsp;</div><div id="idnavhaut"><table class="cent" cellspacing="0" cellpadding="0"><tr><td><a accesskey="0" href="index.php?page=accueil">Accueil</a></td><td><a accesskey="1" href="index.php?page=nouveau">Quoi de neuf ?</a></td><td><a accesskey="2" href="index.php?page=demos"> 1780 demos</a></td><td><a accesskey="3" href="index.php?page=gallery"> CPC pixel art (15)</a></td><td><a accesskey="4" href="index.php?page=compo"> COMPO</a></td><td><a accesskey="5" href="index.php?page=commentaires"> 107 commentaires</a></td><td><a rel="nofollow" accesskey="6" href="index.php?page=liens">Liens</a></td><td><a rel="nofollow" accesskey="7" href="index.php?page=contact">Contact</a></td></tr></table></div><div class="retour"></div></div><div><br /><div class="cartouche150"><div class="cartouche150-haut"></div><div id="idnavnews" class="cartouche150-milieu"><a href="index.php?page=demos" class="normal0"><img src="images/barre_precedent.gif" alt=""> Retour à la liste</a><a href="index.php?page=detail&amp;num=160" class="normal1">La fiche</a><a href="index.php?page=detail&amp;onglet=dsk&amp;num=160" class="courant">Fichiers</a><a rel="nofollow" href="index.php?page=detail&amp;onglet=commentaires&amp;num=160" class="normal0">commentaire (0)</a><br /></div><div class="cartouche150-bas"></div></div><div class="cartouche820"><div class="cartouche820-haut"></div><div class="cartouche820-milieu"><p class="titrefiche">Ze Meeting 2003 &copy; Kill Or Die,Arkos (2004)<br /></p><div class="retour">&nbsp;</div><div class="paragraphe100"><p class="titre">Fichiers</p><div class="justifier"></div></div><div class="paragraphe100"><div class="justifier"><div class="CelluleTexte100copy"><form style='float:right;' method="post" action="index.php?page=contact"><input type="hidden" name="msg_msg" id="msg_msg" value="Essayer d'être le plus précis possible dans la description du BUG rencontré, sinon nous ne pourrons traiter votre message. Merci pour votre aide.
+---------------------------------------------------------------
+Ze Meeting 2003 &copy; #Kill Or Die#,#Arkos# (2004)
+Fiche n° 160
+
+---- ---- SIGNALER UN BUG SUR UN FICHIER ---- ----
+ZeMeeting 2003 (2004)(Arkos & KOD).dsk
+
+- DESCRIPTION DU BUG -
+" /><input type="image" src="images/boutons_signaler_bugs_fr.gif" /></form> <strong>Date : 2011-07-17 12:18</strong><br /><a rel="nofollow" href="pages/download.php?fiche=160&amp;dsk=1" title="Download"><img src="images/download.gif" alt="Download" />ZeMeeting 2003 (2004)(Arkos & KOD).dsk</a>&nbsp;(191 Ko) téléchargé : 44 fois<blockquote>DSK créé avec : Win APE 32 1.0</blockquote><div class="retour"> </div></div></div></div><p class="retour">&nbsp;</p></div><div class="cartouche820-bas"></div></div><div class="retour">&nbsp;</div></div><div class="retour"></div><div class="jointure">&nbsp;</div><div class="Corps"><div class="retour"></div><div class="paragraphe100"><div class="centrer"><strong>CPC-POWER/CPCDémos</strong>, projet maintenu par <strong>BDCIron</strong> et <strong>Megachur</strong>.<br />Programmation (PHP 5.3.3, MySqli, XHTML, CSS, Javascript) par <strong>Kukulcan</strong> &copy; 2007-2011 tous droits réservés.<br /><em>Reproduction sans autorisation interdite. Tous les titres utilisées appartiennent à leurs propriétaires respectifs.</em><br /><br /><script type="text/javascript" src="http://jf.revolvermaps.com/p.js"></script><script type="text/javascript">rm2d_ki101('0','400','200','5frrlq7n8hc','baff00',40);</script><br /><a rel="nofollow" href="http://cpc-live.com/topsites/"><img src="http://cpc-live.com/topsites/button.php?u=kukulcan" alt="CPC-Topsites" border="0" /></a></div></div><div class="retour"></div></div><div class="retour"></div></div></body>
+</html>
