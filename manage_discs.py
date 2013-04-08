@@ -105,6 +105,12 @@ def synchronize(_type=None):
         if opposite_filename(f, _type) not in fopposite:
             print "create:", f, "=>", opposite_filename(f, _type) 
             subprocess.call([CONVERTER +" -finput:" + pipes.quote(f) +" -conv:"+ __lut_fromopt[_type] + " > /dev/null"], shell=True )
+
+            # Build repository if necessary
+            res_dir = os.path.dirname(opposite_filename(f, _type))
+            if not os.path.exists(res_dir):
+                os.makedirs(res_dir)
+
             shutil.move(get_converted_name(f, _type), opposite_filename(f, _type))
 # code
 if __name__ == '__main__':
