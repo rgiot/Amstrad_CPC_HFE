@@ -74,8 +74,8 @@ def sanytize_files_name(_type=None):
     # Force upper case
     original = get_disc_file_list(_type)
     for f in original:
-        if os.path.basename(f).upper() != os.path.basename(f):
-            shutil.move(f, os.path.join(os.path.dirname(f), os.path.basename(f).upper()))
+        if os.path.basename(f).upper() != os.path.basename(f) or " " in os.path.basename(f):
+            shutil.move(f, os.path.join(os.path.dirname(f), os.path.basename(f).upper().replace(" ", "_")))
 
 def opposite_filename(fname, currenttype):
     """Return the file name in the opposite file type"""
